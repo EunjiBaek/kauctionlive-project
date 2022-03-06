@@ -2,7 +2,7 @@
   "name": "front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "http://EunjiBaek.github.io/kauctionlive-project",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@emotion/css": "^11.7.1",
@@ -34,8 +34,10 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
-    "start": "cross-env NODE_PATH='C:\\WebSite\\Git\\ka.design\\ka.design\\react' react-scripts start",
-    "build": "cross-env react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -68,6 +70,7 @@
     "babel-loader": "^8.2.3",
     "babel-plugin-styled-components": "^2.0.2",
     "css-loader": "^6.6.0",
+    "gh-pages": "^3.2.3",
     "html-loader": "^3.1.0",
     "html-webpack-plugin": "^5.5.0",
     "less": "^4.1.2",
