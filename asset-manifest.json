@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EunjiBaek/kauctionlive-project.git/static/css/main.aeeedab9.css",
-    "main.js": "/EunjiBaek/kauctionlive-project.git/static/js/main.813d3091.js",
-    "static/media/live_icon.svg": "/EunjiBaek/kauctionlive-project.git/static/media/live_icon.64cc1dae17b25054c53194e01e600f5b.svg",
-    "index.html": "/EunjiBaek/kauctionlive-project.git/index.html",
-    "static/media/logo.svg": "/EunjiBaek/kauctionlive-project.git/static/media/logo.933332255a86ad8724c5e24e5c8c2f5f.svg",
-    "main.aeeedab9.css.map": "/EunjiBaek/kauctionlive-project.git/static/css/main.aeeedab9.css.map",
-    "main.813d3091.js.map": "/EunjiBaek/kauctionlive-project.git/static/js/main.813d3091.js.map"
+    "main.css": "/kauctionlive-project/static/css/main.aeeedab9.css",
+    "main.js": "/kauctionlive-project/static/js/main.d4a1a8ff.js",
+    "static/media/live_icon.svg": "/kauctionlive-project/static/media/live_icon.64cc1dae17b25054c53194e01e600f5b.svg",
+    "index.html": "/kauctionlive-project/index.html",
+    "static/media/logo.svg": "/kauctionlive-project/static/media/logo.933332255a86ad8724c5e24e5c8c2f5f.svg",
+    "main.aeeedab9.css.map": "/kauctionlive-project/static/css/main.aeeedab9.css.map",
+    "main.d4a1a8ff.js.map": "/kauctionlive-project/static/js/main.d4a1a8ff.js.map"
   },
   "entrypoints": [
     "static/css/main.aeeedab9.css",
-    "static/js/main.813d3091.js"
+    "static/js/main.d4a1a8ff.js"
   ]
 }
